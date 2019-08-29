@@ -1,0 +1,1 @@
+2019/08/29 12:54:58 [emerg] 1#1: host not found in upstream "php" in /etc/nginx/conf.d/hello-dev.conf:11
